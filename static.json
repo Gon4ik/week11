@@ -1,7 +1,9 @@
 {
  "headers": {
   "/*":  {
-   "X-Author": "nailsup"
+   "X-Author": "nailsup",
+   "Acess-Control-Allow-Origin": "*"
+  
   }
  }
 }
